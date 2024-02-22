@@ -9,6 +9,7 @@ arcade.start_render()
 funciones.draw_amogus(-60,90,arcade.color.PINK)
 funciones.draw_amogus(250,90,arcade.color.YELLOW)
 funciones.draw_amogus(600,90,arcade.color.AIR_SUPERIORITY_BLUE)
+funciones.draw_grass()
 
 arcade.finish_render()
 arcade.run()
